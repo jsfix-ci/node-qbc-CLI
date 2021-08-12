@@ -1,0 +1,17 @@
+{
+  "name": "business-controller-cli",
+  "version": "0.0.1",
+  "description": "CLI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"TEST\""
+  },
+  "author": "Anrail",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.1.0"
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
