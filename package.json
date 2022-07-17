@@ -9,7 +9,7 @@
   "author": "Anrail",
   "license": "MIT",
   "dependencies": {
-    "commander": "^8.1.0"
+    "commander": "^9.4.0"
   },
   "devDependencies": {
     "prettier": "2.3.2"
